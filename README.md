@@ -25,7 +25,7 @@ Crea un subi­ndice <sub>2</sub>
 Crea un superindice <sup>2</sup>
 
 Crea un link
-[Links](http://localhost/](https://github.com/1MariaAngeles/Interfaces/ "link")
+[Links](https://github.com/1MariaAngeles/Interfaces/) 
 
 Añade una imagen desde una url remota
 ![](https://destinoysabor.com/blog/wp-content/uploads/2016/02/Tokio-Destino-y-Sabor.jpg)
